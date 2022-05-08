@@ -1,4 +1,3 @@
-- SP
 - 📫 @hrif.ifan@gmail.com
 
 <!---
